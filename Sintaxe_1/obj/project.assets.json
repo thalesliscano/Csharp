@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe_1\\Sintaxe_1.csproj",
+      "projectUniqueName": "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe_1\\Sintaxe_1.csproj",
       "projectName": "Sintaxe_1",
-      "projectPath": "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe_1\\Sintaxe_1.csproj",
+      "projectPath": "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe_1\\Sintaxe_1.csproj",
       "packagesPath": "C:\\Users\\thale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe_1\\obj\\",
+      "outputPath": "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thale\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\thale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

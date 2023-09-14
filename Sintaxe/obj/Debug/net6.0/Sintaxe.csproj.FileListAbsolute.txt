@@ -3,7 +3,6 @@ C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\bin\Debug\net6
 C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\bin\Debug\net6.0\Sintaxe.runtimeconfig.json
 C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\bin\Debug\net6.0\Sintaxe.dll
 C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\bin\Debug\net6.0\Sintaxe.pdb
-C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\obj\Debug\net6.0\Sintaxe.csproj.AssemblyReference.cache
 C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\obj\Debug\net6.0\Sintaxe.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\obj\Debug\net6.0\Sintaxe.AssemblyInfoInputs.cache
 C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\Sintaxe\obj\Debug\net6.0\Sintaxe.AssemblyInfo.cs

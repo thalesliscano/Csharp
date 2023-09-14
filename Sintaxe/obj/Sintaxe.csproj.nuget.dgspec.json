@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj": {}
+    "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj": {
+    "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj",
+        "projectUniqueName": "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj",
         "projectName": "Sintaxe",
-        "projectPath": "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj",
+        "projectPath": "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\Sintaxe.csproj",
         "packagesPath": "C:\\Users\\thale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\obj\\",
+        "outputPath": "c:\\Users\\thale\\OneDrive\\Documentos\\codigos-treinos\\csharp\\Sintaxe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thale\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

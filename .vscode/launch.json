@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: Sintaxe",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\Sintaxe\\Sintaxe.csproj",
+      "launchConfigurationId": "TargetFramework=;Sintaxe"
+    }
+  ]
+}
