@@ -1,0 +1,14 @@
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.AssemblyInfoInputs.cache
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.AssemblyInfo.cs
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.csproj.CoreCompileInputs.cache
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\bin\Debug\net7.0\about-class.exe
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\bin\Debug\net7.0\about-class.deps.json
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\bin\Debug\net7.0\about-class.runtimeconfig.json
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\bin\Debug\net7.0\about-class.dll
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\bin\Debug\net7.0\about-class.pdb
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.dll
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\refint\about-class.dll
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.pdb
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\about-class.genruntimeconfig.cache
+C:\Users\thale\OneDrive\Documentos\codigos-treinos\csharp\about-class\obj\Debug\net7.0\ref\about-class.dll
